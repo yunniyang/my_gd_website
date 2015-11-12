@@ -63,7 +63,7 @@ font-family: Arial, sans-serif; font-size: 10pt; padding-left: 10px; margin: 0;
 }
 
 .box{background-color: white; width: 300px; height: 100px; position: absolute; 
-	margin: 0px auto; padding: 0; border-style: solid; border-top-color: #EE8107;color: white;}
+	margin: 0px auto; padding: 0; border-top:solid 2px #EE8107;color: white;}
 .box h {margin-top: 10px;font-family: 'Arial black', sans-serif; font-size: 15pt; color: #EE8107}
 .box p{margin-top: 3px; font-family: Arial, sans-serif; font-size: 10pt; color: #EE8107; }
 
