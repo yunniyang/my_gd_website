@@ -44,8 +44,9 @@ font-family: Arial, sans-serif; font-size: 10pt; padding-left: 10px; margin: 0;
 .nav5{color: #4CA182}
 .nav5:hover {color: white;}
 
-.nav1 {position: relative; font-family:Arial, sans-serif; font-size: 20px; display: list-item;
-       list-style: none;  }	
+.nav11 {float:left; font-family:Arial, sans-serif; font-size: 20px;
+       list-style: none; margin: 0; padding: 0; border: 0; margin-top: 90px; color: #F8B733;
+        margin-left: -30px; }	
 
 #search_text{
     width: 180px;
